@@ -1,2 +1,5 @@
 #ignore virtual environment folder
 venv/
+
+#if you wanted to ignore the readme
+README.md
