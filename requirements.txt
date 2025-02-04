@@ -1,0 +1,7 @@
+-e git+https://github.com/chriaa/test_repo.git@4af1e11d45a2e0e37c267e33ee4a02a8e7327a89#egg=examplepackage&subdirectory=python_fun_time/package-example/examplepackage
+numpy==2.2.2
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+pytz==2025.1
+six==1.17.0
+tzdata==2025.1

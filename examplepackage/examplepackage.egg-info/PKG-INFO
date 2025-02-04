@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: examplepackage
+Version: 0.1
+Summary: A simple greeting package
+Home-page: https://github.com/chriaa/python-examples
+Author: Christina A
+Author-email: christina@example.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
